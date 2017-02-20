@@ -1,0 +1,3 @@
+Android與Arduino的藍芽通訊:http://www.funbroad.tw/p/maker-single-arduino-android-double_5129.html
+
+Arduino 入門教學:http://coopermaa2nd.blogspot.tw/2011/05/arduino.html
